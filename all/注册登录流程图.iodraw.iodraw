@@ -27,6 +27,9 @@
         <mxCell id="8sHhvy-sisRFjxQHoxyZ-15" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="140" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8sHhvy-sisRFjxQHoxyZ-17" value="前端表单验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
