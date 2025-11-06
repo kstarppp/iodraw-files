@@ -45,7 +45,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U7VwAovgPX3f3qN96BMn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U7VwAovgPX3f3qN96BMn-10" target="U7VwAovgPX3f3qN96BMn-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="540" />
+              <mxPoint x="770" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="U7VwAovgPX3f3qN96BMn-10" value="记录驳回原因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="510" width="120" height="60" as="geometry" />
@@ -57,7 +62,7 @@
           <mxGeometry x="540" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U7VwAovgPX3f3qN96BMn-13" value="通知用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
