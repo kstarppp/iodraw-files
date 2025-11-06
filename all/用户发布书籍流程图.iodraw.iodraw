@@ -75,7 +75,7 @@
         <mxCell id="U7VwAovgPX3f3qN96BMn-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="460" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U7VwAovgPX3f3qN96BMn-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U7VwAovgPX3f3qN96BMn-18" value="重新发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
