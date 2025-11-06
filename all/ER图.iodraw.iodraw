@@ -100,7 +100,7 @@
             <mxPoint x="790" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TTAxrD1cStOuIojX5Wei-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;实名认证&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TTAxrD1cStOuIojX5Wei-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;新旧程度&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="675" y="600" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TTAxrD1cStOuIojX5Wei-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTAxrD1cStOuIojX5Wei-40" target="TTAxrD1cStOuIojX5Wei-31">
