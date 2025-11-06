@@ -19,6 +19,9 @@
         <mxCell id="-LUqSlVW2JnZo_tIEwFH-4" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="710" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-LUqSlVW2JnZo_tIEwFH-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
