@@ -95,6 +95,9 @@
         <mxCell id="U7VwAovgPX3f3qN96BMn-20" value="书籍标记为下架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="610" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="U7VwAovgPX3f3qN96BMn-23" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
