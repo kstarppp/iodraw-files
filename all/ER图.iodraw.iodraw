@@ -392,7 +392,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTAxrD1cStOuIojX5Wei-137" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;账户流水&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="655" width="110" height="120" as="geometry" />
+          <mxGeometry x="1310" y="560" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
