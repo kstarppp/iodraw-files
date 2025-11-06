@@ -373,7 +373,7 @@
         <mxCell id="TTAxrD1cStOuIojX5Wei-142" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="TTAxrD1cStOuIojX5Wei-141">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTAxrD1cStOuIojX5Wei-145" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;创建&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
+        <mxCell id="TTAxrD1cStOuIojX5Wei-145" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;双方互评&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1070" y="660" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TTAxrD1cStOuIojX5Wei-147" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTAxrD1cStOuIojX5Wei-145" target="TTAxrD1cStOuIojX5Wei-120">
