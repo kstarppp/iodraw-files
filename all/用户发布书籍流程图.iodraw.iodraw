@@ -57,7 +57,7 @@
           <mxGeometry x="540" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U7VwAovgPX3f3qN96BMn-13" value="通知用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
