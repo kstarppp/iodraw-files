@@ -121,6 +121,15 @@
         <mxCell id="TTAxrD1cStOuIojX5Wei-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发布&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="890" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TTAxrD1cStOuIojX5Wei-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="400" as="sourcePoint" />
+            <mxPoint x="1110" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TTAxrD1cStOuIojX5Wei-46" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="TTAxrD1cStOuIojX5Wei-45">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
