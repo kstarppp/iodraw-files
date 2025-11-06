@@ -80,7 +80,7 @@
         <mxCell id="U7VwAovgPX3f3qN96BMn-13" value="通知用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U7VwAovgPX3f3qN96BMn-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U7VwAovgPX3f3qN96BMn-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="960" y="460" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U7VwAovgPX3f3qN96BMn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U7VwAovgPX3f3qN96BMn-18" target="U7VwAovgPX3f3qN96BMn-2">
