@@ -391,14 +391,8 @@
         <mxCell id="TTAxrD1cStOuIojX5Wei-150" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="TTAxrD1cStOuIojX5Wei-149">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTAxrD1cStOuIojX5Wei-151" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTAxrD1cStOuIojX5Wei-1" target="TTAxrD1cStOuIojX5Wei-137">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1230" y="510" as="sourcePoint" />
-            <mxPoint x="1553" y="467" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TTAxrD1cStOuIojX5Wei-137" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;账户流水&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="660" width="120" height="110" as="geometry" />
+        <mxCell id="TTAxrD1cStOuIojX5Wei-137" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;账户流水&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="655" width="110" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
