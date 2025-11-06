@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PC8MOiTwL1_TLQClSW77-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="180" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="480" height="810" as="geometry" />
         </mxCell>
@@ -81,9 +84,6 @@
         </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-37" value="普通用户权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="170" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
