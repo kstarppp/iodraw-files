@@ -10,6 +10,9 @@
         <mxCell id="PC8MOiTwL1_TLQClSW77-2" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PC8MOiTwL1_TLQClSW77-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
