@@ -7,14 +7,17 @@
         <mxCell id="xphxDH99_KZaX5ww2oBb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="625.94" y="620" width="918.13" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xphxDH99_KZaX5ww2oBb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xphxDH99_KZaX5ww2oBb-2" target="xphxDH99_KZaX5ww2oBb-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xphxDH99_KZaX5ww2oBb-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;学生用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="505" width="190" height="55" as="geometry" />
         </mxCell>
         <mxCell id="xphxDH99_KZaX5ww2oBb-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;注册/登录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="660" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xphxDH99_KZaX5ww2oBb-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="720" as="sourcePoint" />
+            <mxPoint x="1110" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
