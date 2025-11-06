@@ -43,6 +43,9 @@
         <mxCell id="PC8MOiTwL1_TLQClSW77-18" value="钱包管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="600" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PC8MOiTwL1_TLQClSW77-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="180" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-19" value="收藏管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="680" width="130" height="60" as="geometry" />
         </mxCell>
@@ -57,9 +60,6 @@
         </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-27" value="搜索书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="360" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="170" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-28" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="130" height="60" as="geometry" />
