@@ -10,8 +10,8 @@
         <mxCell id="PC8MOiTwL1_TLQClSW77-2" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-7" value="系统权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="PC8MOiTwL1_TLQClSW77-7" value="系统角色权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PC8MOiTwL1_TLQClSW77-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="180" width="200" height="740" as="geometry" />
