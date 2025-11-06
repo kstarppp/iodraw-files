@@ -33,6 +33,9 @@
         <mxCell id="8sHhvy-sisRFjxQHoxyZ-17" value="检查用户名和&lt;div&gt;手机号是否存在&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="180" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="8sHhvy-sisRFjxQHoxyZ-20" value="验证通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
