@@ -7,14 +7,8 @@
         <mxCell id="PC8MOiTwL1_TLQClSW77-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="680" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PC8MOiTwL1_TLQClSW77-2" target="PC8MOiTwL1_TLQClSW77-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PC8MOiTwL1_TLQClSW77-2" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
