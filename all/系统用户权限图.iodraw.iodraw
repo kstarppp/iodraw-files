@@ -76,8 +76,8 @@
         <mxCell id="PC8MOiTwL1_TLQClSW77-33" value="浏览书籍列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="840" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PC8MOiTwL1_TLQClSW77-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="PC8MOiTwL1_TLQClSW77-37" value="普通用户权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="310" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
