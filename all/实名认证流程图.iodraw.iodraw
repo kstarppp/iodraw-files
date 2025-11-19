@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="xFeFFuZL4ephjRIe-gkJ">
-    <mxGraphModel dx="8969" dy="1755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9140" dy="1858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="4aBP557p-Cqrllyb_7I5-27" value="管理端&lt;div&gt;Vue 3+TypeScript&lt;/div&gt;&lt;div&gt;用户管理/审核/监管等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-653" y="-539.5" width="150" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="4aBP557p-Cqrllyb_7I5-28" value="API Gateway&lt;div&gt;路由转发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4aBP557p-Cqrllyb_7I5-28" value="API Gateway&lt;div&gt;路由转发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-663" y="-869.5" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4aBP557p-Cqrllyb_7I5-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.407;entryY=0.982;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="4aBP557p-Cqrllyb_7I5-27" target="4aBP557p-Cqrllyb_7I5-28">
