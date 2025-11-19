@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4aBP557p-Cqrllyb_7I5-69" value="校园二手书交易担保平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4aBP557p-Cqrllyb_7I5-69" value="校园二手书交易担保平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4aBP557p-Cqrllyb_7I5-70" value="买家端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4aBP557p-Cqrllyb_7I5-70" value="买家端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4aBP557p-Cqrllyb_7I5-71" value="卖家端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4aBP557p-Cqrllyb_7I5-71" value="卖家端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4aBP557p-Cqrllyb_7I5-72" value="管理端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
